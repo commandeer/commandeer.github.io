@@ -22,8 +22,8 @@ title: Commandeer Docs v2
 email: bob@getcommandeer.com
 description: >- # this means to ignore newlines until "baseurl:"
   Manage AWS, LocalStack, Docker, and more from one unified desktop app. With support for 35+ cloud services. Available now on Mac, Windows, and Linux.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/docs" # the subpath of your site, e.g. /blog
+url: "https://commandeer.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  commandeer
 
 # Build settings
@@ -35,6 +35,11 @@ plugins:
 color_scheme: commandeer
 logo: "/assets/images/commandeer-logo.png"
 favicon_ico: "/assets/images/favicon.ico"
+
+# Aux links for the upper right navigation
+aux_links:
+  "Commandeer Home":
+    - "https://getcommandeer.com"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
