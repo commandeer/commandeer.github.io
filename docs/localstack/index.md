@@ -1,3 +1,10 @@
+---
+layout: default
+title: LocalStack
+nav_order: 2
+has_children: true
+---
+
 # LocalStack
 
 LocalStack is one of our favorite tools for simulating the AWS environment. It is a mock environment that mimics many of the most popular AWS services. You are able to stand up many different services, such as S3 or Dynamo, and have complete access to the files or NoSQL data exactly is it would appear on AWS.
