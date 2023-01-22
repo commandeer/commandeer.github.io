@@ -32,6 +32,9 @@ remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
 
+logo: "/assets/images/commandeer-logo.png"
+favicon_ico: "/assets/images/favicon.ico"
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
