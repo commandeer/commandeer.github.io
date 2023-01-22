@@ -1,3 +1,9 @@
+---
+layout: default
+title: Overview
+nav_order: 1
+---
+
 # Overview
 
 Commandeer is a desktop IDE used to manage AWS, LocalStack, and Docker. It gives you to work in a clean UI to manage many cloud services. Commandeer is a bottom up solution, meaning you can go down to the granular level for everything. For example, you can search for a file in S3, look up a record in DynamoDB, PostgreSQL, or Athena, or see CloudWatch Logs for a Lambda Invocation that you just invoked.
