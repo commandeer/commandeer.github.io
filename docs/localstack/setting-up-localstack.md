@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Setting up LocalStack
-parent: Localstack
+parent: LocalStack
 nav_order: 2
 ---
 
