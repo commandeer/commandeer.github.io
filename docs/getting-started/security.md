@@ -15,8 +15,7 @@ By having the system set up this way, you or your dev ops department can best ma
 
 We chose to use Auth0 to handle our SSO system. We feel that they are the best service out there to handle single sign-on, and have great SDKs to integrate into both our desktop app and web portal.
 
-{: .highlight }
-We recommend using the GitHub style of having one personal user account with Commandeer, and then belonging to one or more teams. This works especially well if you are a consultant or freelancer.
+> We recommend using the GitHub style of having one personal user account with Commandeer, and then belonging to one or more teams. This works especially well if you are a consultant or freelancer.
 
 This single user then enables us to have you authenticated into the website for managing your profile and plan information. And in the app, this enables you to authenticate in to use Commandeer. Having a single SSO user, and getting it right was very important for us. We have personally used many products, that once you have to switch between companies, it is very cumbersome.
 
