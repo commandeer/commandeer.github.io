@@ -14,5 +14,6 @@ While other tools take a top down approach where you can see high level pieces o
 
 Visualize your lambda connections and the interactions between them. Advanced event runners for SQS, SNS, API Gateway, DynamoDB Streams, S3 files and more, let you actually run the event, and view the triggered Lambda's invocation logs. If you are connected to LocalStack you can also view the Docker Containers logs. You can also invoke a Lambda directly to test your code. This is one of the most important aspects of Commandeer. Rather than having to deal with running these things on the Web or in the CLI, you can now easily do them in an IDE.
 
+![Test Your Plumbing](/assets/images/test-your-plumbing-commandeer.png)
 
 
