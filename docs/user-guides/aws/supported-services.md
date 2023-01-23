@@ -70,7 +70,7 @@ nav_order: 2
   <tr>
     <td>EKS</td>
     <td>⭐</td>
-    <td></td>
+    <td>Basic viewing support.</td>
   </tr>
   <tr>
     <td>ELB</td>
