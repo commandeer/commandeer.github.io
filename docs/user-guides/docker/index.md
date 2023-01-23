@@ -29,5 +29,7 @@ After you download and install Docker using the [repository method](https://docs
 
 Installing Docker on Windows requires running Windows Professional Edition which comes with Hyper-V enabled. [Download](https://docs.docker.com/desktop/install/windows-install/) and install Docker Desktop for Windows from DockerHub. Make sure to keep the Hyper-V option on during the installation. Then start Docker by double-clicking on the shortcut created on your desktop.
 
+> Main Docker Dashboard on Commandeer
+
 ![Docker](/assets/images/docker.png)
 
