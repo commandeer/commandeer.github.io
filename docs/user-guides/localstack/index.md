@@ -1,7 +1,8 @@
 ---
 layout: default
 title: LocalStack
-nav_order: 4
+nav_order: 3
+parent: User Guides
 has_children: true
 ---
 
