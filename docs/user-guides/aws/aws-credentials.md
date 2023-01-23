@@ -1,6 +1,7 @@
 ---
 layout: default
 title: AWS Credentials
+grand_parent: User Guides
 parent: AWS
 nav_order: 1
 ---
