@@ -3,7 +3,7 @@ layout: default
 title: Supported Services
 grand_parent: User Guides
 parent: AWS
-nav_order: 2
+nav_order: 3
 ---
 
 <table>
