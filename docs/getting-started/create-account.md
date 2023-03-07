@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Create Account
+title: Managing Commandeer Accounts
 parent: Getting Started
 nav_order: 3
 ---
 
-# Create a Commandeer Account
+# Managing Commandeer Accounts
 
 There are two different types of accounts in Commandeer. The first is a local account, which connects to LocalStack instead of directly to AWS. This let’s you run all your AWS services locally. The second is a cloud account, which connects directly to AWS.
 
@@ -19,9 +19,28 @@ If you are a developer that works for multiple clients, or have multiple environ
 
 The third setup in this situation could then be acme-lcl which if it is set to Local, it will point all AWS services to LocalStack to a copy of the AWS system. 
 
-## Local Account (Connection to LocalStack)
+## Setting up Accounts
+There are 5 ways to create accounts in Commandeer.  You can begin the process by pressing the `+` button in the top left of the app.
 
-## Cloud Account (Connection to AWS)
+![Commandeer](/assets/images/add-commandeer-account.png)
+
+### Create LocalStack Account
+
+
+
+### Create AWS Account
+
+
+### Import account.json file
+
+
+### Import .aws/credentials
+
+
+### Link LocalStack Containers
+
+
+
 
 
 
