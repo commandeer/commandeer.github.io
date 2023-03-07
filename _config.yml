@@ -40,6 +40,8 @@ favicon_ico: "/assets/images/favicon.ico"
 aux_links:
   "Commandeer Home":
     - "https://getcommandeer.com"
+  "Docs v1":
+    - "https://docs.getcommandeer.com"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
