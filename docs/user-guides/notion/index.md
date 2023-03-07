@@ -37,7 +37,7 @@ Now, in order for Commandeer to connect to Notion, you will need to enable this 
 
 ![Notion Integration Page](/assets/images/notion/commandeer-aws-export-notion-page.png)
 
-With that selected, not look in your url bar on your browser, and take note of the page id. Alsong with your secret token, you will need this page id to access Notion from within Commandeer.
+With that selected, look in your url bar on your browser, and take note of the page id. This page id along with your token from step 1 is what you will need to access Notion from within Commandeer.
 
 ![Notion Page Id](/assets/images/notion/notion-page-id.png)
 
@@ -53,7 +53,7 @@ On the left-hand side of the app, you can see the Notion menu item.  Select that
 
 ![Notion Settings](/assets/images/notion/commandeer-notion-settings.png)
 
-With these added, you will then be presented with a button to export your system.  Currently, we allow you to export CloudFormation, CloudWatch Logs, DynamoDB, Lambda, and S3.  We will be adding support for more services shortly.
+With these added, you will then be presented with a button to export your system.Currently, we allow you to export CloudFormation, CloudWatch Logs, DynamoDB, Lambda, and S3.  We will be adding support for more services shortly.
 
 ![AWS Notion Export](/assets/images/notion/aws-notion-export.png)
 
@@ -61,7 +61,9 @@ Press the button and you will see the dialog to select which resources you want 
 
 ![AWS Notion Export](/assets/images/notion/notion-export.png)
 
-Press the export button, and Boom!, your entire system is now in Notion.  Let's go back over to Notion, and verify.
+Press the export button, and Boom!, your entire system is now in Notion.  As you can see below, this is really handy!
+
+![AWS Export](/assets/images/notion/aws-commandeer-notion-export.gif)
 
 ### Step 4 - Checkout your newly created docs
 
